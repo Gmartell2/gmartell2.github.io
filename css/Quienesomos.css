@@ -1,0 +1,788 @@
+@charset "utf-8";
+@import url("../webfonts/NunitoSans_Black/stylesheet.css");
+@import url("../webfonts/NunitoSans_SemiBold/stylesheet.css");
+@import url("../webfonts/NunitoSans_Regular/stylesheet.css");
+/* CSS Document */
+
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+
+a{
+	color: #FFFFFF;
+	 text-decoration: none;
+}
+
+/*	HEADER */
+
+#Quienes_somos {
+	position: absolute;
+	width: 1920px;
+	height: 3500px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+}
+#FONDO {
+	opacity: 0.13;
+	position: absolute;
+	width: 1920px;
+	height: 2926px;
+	left: 0px;
+	top: 300px;
+	overflow: visible;
+}
+#Rectngulo_33 {
+	fill: rgba(3,47,71,1);
+}
+.Rectngulo_33 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1558px;
+	height: 106px;
+	left: 190px;
+	top: 1197px;
+}
+#Rectngulo_35 {
+	fill: rgba(3,47,71,1);
+}
+.Rectngulo_35 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1558px;
+	height: 106px;
+	left: 190px;
+	top: 2065px;
+}
+#Rectngulo_34 {
+	fill: rgba(3,47,71,1);
+}
+.Rectngulo_34 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1558px;
+	height: 106px;
+	left: 190px;
+	top: 394px;
+}
+#SOBRE_NOSOTROS {
+    left: 421px;
+    top: 411px;
+    position: absolute;
+    overflow: visible;
+    width: 1080px;
+    height: 54px;
+    text-align: center;
+    font-family: "NunitoSans Black";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    color: rgba(255,255,255,1);
+}
+#RECTOR {
+    left: 421px;
+    top: 1214px;
+    position: absolute;
+    overflow: visible;
+    width: 1080px;
+    height: 54px;
+    text-align: center;
+    font-family: "NunitoSans Black";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    color: rgba(255,255,255,1);
+}
+#NUESTROS_MAESTROS_Y_ASESORES {
+    left: 421px;
+    top: 2082px;
+    position: absolute;
+    overflow: visible;
+    width: 1080px;
+    height: 54px;
+    text-align: center;
+    font-family: "NunitoSans Black";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    color: rgba(255,255,255,1);
+}
+#n_0 {
+	position: absolute;
+	width: 374px;
+	height: 626px;
+	left: 422px;
+	top: 1359px;
+	overflow: visible;
+}
+#n_7- {
+	position: absolute;
+	width: 330px;
+	height: 442px;
+	left: 399px;
+	top: 2221px;
+	overflow: visible;
+}
+#n_6- {
+	position: absolute;
+	width: 330px;
+	height: 442px;
+	left: 399px;
+	top: 2724px;
+	overflow: visible;
+}
+#n_2- {
+	position: absolute;
+	width: 330px;
+	height: 442px;
+	left: 796px;
+	top: 2221px;
+	overflow: visible;
+}
+#n_5- {
+	position: absolute;
+	width: 330px;
+	height: 442px;
+	left: 796px;
+	top: 2724px;
+	overflow: visible;
+}
+#n_3- {
+	position: absolute;
+	width: 330px;
+	height: 443px;
+	left: 1192px;
+	top: 2222px;
+	overflow: visible;
+}
+#n_4- {
+	position: absolute;
+	width: 330px;
+	height: 443px;
+	left: 1192px;
+	top: 2725px;
+	overflow: visible;
+}
+#Nos_apasiona_la_expresin_escni {
+    left: 347px;
+    top: 615px;
+    position: absolute;
+    overflow: visible;
+    width: 1227px;
+    height: 550px;
+    text-align: left;
+    font-family: "NunitoSans Regular";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(71,71,71,1);
+}
+#Como_Artista_Gabriel_Martell_s {
+    left: 960px;
+    top: 1380px;
+    position: absolute;
+    overflow: visible;
+    width: 756px;
+    height: 626px;
+    text-align: left;
+    font-family: "NunitoSans Regular";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(71,71,71,1);
+}
+#Encabezado {
+	position: absolute;
+	width: 1920px;
+	height: 357px;
+	left: 0px;
+	top: -57px;
+	overflow: visible;
+}
+#Rectngulo_1 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_1 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1938px;
+	height: 318px;
+	left: 0px;
+	top: 57px;
+}
+#Trazado_2 {
+	fill: rgba(3,47,71,1);
+}
+.Trazado_2 {
+	overflow: visible;
+	position: absolute;
+	width: 239.128px;
+	height: 47.006px;
+	left: 75.825px;
+	top: 287px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_3 {
+	fill: rgba(3,47,71,1);
+}
+.Trazado_3 {
+	overflow: visible;
+	position: absolute;
+	width: 239.128px;
+	height: 47.006px;
+	left: 330.728px;
+	top: 287px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_4 {
+	fill: rgba(3,47,71,1);
+}
+.Trazado_4 {
+	overflow: visible;
+	position: absolute;
+	width: 239.128px;
+	height: 47.006px;
+	left: 585.674px;
+	top: 287px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_5 {
+	fill: rgba(3,47,71,1);
+}
+.Trazado_5 {
+	overflow: visible;
+	position: absolute;
+	width: 239.128px;
+	height: 47.006px;
+	left: 840.469px;
+	top: 287px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_6 {
+	fill: rgba(3,47,71,1);
+}
+.Trazado_6 {
+	overflow: visible;
+	position: absolute;
+	width: 239.128px;
+	height: 47.006px;
+	left: 1095.36px;
+	top: 287px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_7 {
+	fill: rgba(3,47,71,1);
+}
+.Trazado_7 {
+	overflow: visible;
+	position: absolute;
+	width: 239.128px;
+	height: 47.006px;
+	left: 1350.156px;
+	top: 287px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_19 {
+	fill: rgba(3,47,71,1);
+}
+.Trazado_19 {
+	overflow: visible;
+	position: absolute;
+	width: 239.128px;
+	height: 47.006px;
+	left: 1605.047px;
+	top: 287px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Inicio {
+    left: 165.203px;
+    top: 293.356px;
+    position: absolute;
+    overflow: visible;
+    width: 61px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: "NunitoSans Regular";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+#Quienes_Somos {
+    left: 357.67px;
+    top: 294.407px;
+    position: absolute;
+    overflow: visible;
+    width: 181px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: "NunitoSans Regular";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+#Oferta_Educativa {
+    left: 608.156px;
+    top: 294.814px;
+    position: absolute;
+    overflow: visible;
+    width: 191px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: "NunitoSans Regular";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+#Comunidad {
+    left: 893.309px;
+    top: 294.814px;
+    position: absolute;
+    overflow: visible;
+    width: 131px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: "NunitoSans Regular";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+#Admisin {
+    left: 1158.973px;
+    top: 294.814px;
+    position: absolute;
+    overflow: visible;
+    width: 109px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: "NunitoSans Regular";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+#Pago_en_lnea {
+    left: 1391.485px;
+    top: 294.814px;
+    position: absolute;
+    overflow: visible;
+    width: 155px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: "NunitoSans Regular";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+#Contacto {
+    left: 1672.597px;
+    top: 294.814px;
+    position: absolute;
+    overflow: visible;
+    width: 103px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: "NunitoSans Regular";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+#logo_color {
+	position: absolute;
+	width: 242px;
+	height: 314px;
+	left: 839px;
+	top: 0px;
+	overflow: visible;
+}
+
+
+
+/*CONTENIDO */
+
+#Buscamos_dar_felicidad_a_la_ge {
+    left: 406px;
+    top: 511px;
+    position: absolute;
+    overflow: visible;
+    width: 1110px;
+    height: 54px;
+    text-align: center;
+    font-family: "NunitoSans SemiBold";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    color: rgba(71,71,71,1);
+}
+
+
+/*	FOOTER-------------------------------*/
+
+#Rectngulo_18 {
+	fill: rgba(3,47,71,1);
+}
+.Rectngulo_18 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 280px;
+	left: 0px;
+	top: 3220px;
+}
+#logo_blanco {
+	position: absolute;
+	width: 116px;
+	height: 150px;
+	left: 1508px;
+	top: 3210px;
+	overflow: visible;
+}
+#CONTACTO {
+    left: 157px;
+    top: 3254px;
+    position: absolute;
+    overflow: visible;
+    width: 145px;
+    white-space: nowrap;
+    line-height: 31px;
+    margin-top: -3px;
+    text-align: left;
+    font-family: "NunitoSans Regular";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+}
+#SGUENOS {
+    left: 631px;
+    top: 3254px;
+    position: absolute;
+    overflow: visible;
+    width: 136px;
+    white-space: nowrap;
+    line-height: 31px;
+    margin-top: -3px;
+    text-align: left;
+    font-family: "NunitoSans Regular";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+}
+#Academia_de_Estudios_Musicales {
+    left: 222px;
+    top: 3310px;
+    position: absolute;
+    overflow: visible;
+    width: 288px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "NunitoSans Regular";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(255,255,255,1);
+}
+#Estudios_con_reconocimiento_in {
+    left: 1364px;
+    top: 3346px;
+    position: absolute;
+    overflow: visible;
+    width: 405px;
+    white-space: nowrap;
+    line-height: 20px;
+    margin-top: -2.5px;
+    text-align: center;
+    font-family: "NunitoSans Regular";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 15px;
+    color: rgba(255,255,255,1);
+}
+#telefono{
+    left: 222px;
+    top: 3432px;
+    position: absolute;
+    overflow: visible;
+    width: 103px;
+    white-space: nowrap;
+    line-height: 25px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: "NunitoSans Regular";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(255,255,255,1);
+}
+#llamada_blanco {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 179px;
+	top: 3436px;
+	overflow: visible;
+}
+#mapa_blanco {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 179px;
+	top: 3314px;
+	overflow: visible;
+}
+#n_G_Martell_2022__Creative_Stu {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 843px;
+	top: 3465px;
+	position: absolute;
+	overflow: visible;
+	width: 235px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Nunito Sans;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Grupo_1 {
+	position: absolute;
+	width: 31.152px;
+	height: 31.198px;
+	left: 757.666px;
+	top: 3320.092px;
+	overflow: visible;
+}
+#Trazado_10 {
+	fill: rgba(255,255,255,1);
+}
+.Trazado_10 {
+	overflow: visible;
+	position: absolute;
+	width: 31.152px;
+	height: 31.198px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_11 {
+	fill: rgba(255,255,255,1);
+}
+.Trazado_11 {
+	overflow: visible;
+	position: absolute;
+	width: 16.038px;
+	height: 16.034px;
+	left: 7.572px;
+	top: 7.58px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_12 {
+	fill: rgba(255,255,255,1);
+}
+.Trazado_12 {
+	overflow: visible;
+	position: absolute;
+	width: 3.735px;
+	height: 3.735px;
+	left: 22.059px;
+	top: 5.394px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_13 {
+	fill: rgba(255,255,255,1);
+}
+.Trazado_13 {
+	overflow: visible;
+	position: absolute;
+	width: 15.316px;
+	height: 29.556px;
+	left: 650.391px;
+	top: 3320.913px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_14 {
+	fill: rgba(255,255,255,1);
+}
+.Trazado_14 {
+	overflow: visible;
+	position: absolute;
+	width: 28.546px;
+	height: 28.548px;
+	left: 876.691px;
+	top: 3321.417px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_15 {
+	fill: rgba(255,255,255,1);
+}
+.Trazado_15 {
+	overflow: visible;
+	position: absolute;
+	width: 29.82px;
+	height: 24.463px;
+	left: 701.889px;
+	top: 3323.458px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_18 {
+	fill: rgba(255,255,255,1);
+}
+.Trazado_18 {
+	overflow: visible;
+	position: absolute;
+	width: 31.935px;
+	height: 22.414px;
+	left: 816.997px;
+	top: 3324.483px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Estos_estudios_no_requieren_va {
+    left: 1361px;
+    top: 3436px;
+    position: absolute;
+    overflow: visible;
+    width: 410px;
+    height: 20px;
+    line-height: 20px;
+    margin-top: -2.5px;
+    text-align: center;
+    font-family: "NunitoSans Regular";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgba(255,255,255,1);
+}
+#Aviso_de_Privacidad {
+    left: 1058px;
+    top: 3306.142px;
+    position: absolute;
+    overflow: visible;
+    width: 132.653px;
+    height: 32.31734848022461px;
+    text-align: left;
+    font-family: "NunitoSans Regular";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(255,255,255,1);
+}
+#Informes {
+    left: 1058px;
+    top: 3329.743px;
+    position: absolute;
+    overflow: visible;
+    width: 59.925px;
+    height: 32.31734848022461px;
+    text-align: left;
+    font-family: "NunitoSans Regular";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(255,255,255,1);
+}
+#Inicio_b {
+    left: 1058px;
+    top: 3353.341px;
+    position: absolute;
+    overflow: visible;
+    width: 40.65px;
+    height: 32.31734848022461px;
+    text-align: left;
+    font-family: "NunitoSans Regular";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(255,255,255,1);
+}
+#Quienes_Somos_b {
+    left: 1058px;
+    top: 3376.94px;
+    position: absolute;
+    overflow: visible;
+    width: 124.413px;
+    height: 32.31734848022461px;
+    text-align: left;
+    font-family: "NunitoSans Regular";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(255,255,255,1);
+}
+#Oferta_educativa {
+    left: 1058px;
+    top: 3400.541px;
+    position: absolute;
+    overflow: visible;
+    width: 129.542px;
+    height: 32.31734848022461px;
+    text-align: left;
+    font-family: "NunitoSans Regular";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(255,255,255,1);
+}
+#Alumnos {
+    left: 1219.245px;
+    top: 3306.378px;
+    position: absolute;
+    overflow: visible;
+    width: 88.407px;
+    height: 32.31734848022461px;
+    text-align: center;
+    font-family: "NunitoSans Regular";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(255,255,255,1);
+}
+#Pago_en_lnea_b {
+    left: 1219.245px;
+    top: 3329.978px;
+    position: absolute;
+    overflow: visible;
+    width: 109.407px;
+    height: 32.31734848022461px;
+    text-align: left;
+    font-family: "NunitoSans Regular";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(255,255,255,1);
+}
+#Contacto_ca {
+    left: 1219.245px;
+    top: 3353.579px;
+    position: absolute;
+    overflow: visible;
+    width: 62.816px;
+    height: 32.31734848022461px;
+    text-align: left;
+    font-family: "NunitoSans Regular";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(255,255,255,1);
+}
